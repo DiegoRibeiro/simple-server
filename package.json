@@ -1,5 +1,5 @@
 {
-  "name": "simple-server",
+  "name": "ws-simple-server",
   "version": "0.0.1",
   "description": "A simple websocket server",
   "main": "index.js",

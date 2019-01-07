@@ -1,0 +1,22 @@
+{
+  "name": "simple-server",
+  "version": "0.0.1",
+  "description": "A simple websocket server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoRibeiro/simple-server.git"
+  },
+  "author": "Diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoRibeiro/simple-server/issues"
+  },
+  "homepage": "https://github.com/DiegoRibeiro/simple-server#readme",
+  "dependencies": {
+    "ws": "^6.1.2"
+  }
+}
